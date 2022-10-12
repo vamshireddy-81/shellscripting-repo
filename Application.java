@@ -31,4 +31,7 @@
 		printOne();
 		printOne();
 	}
+#feature301 changes done by vamshi
+sourcefile.read(array)
+
 }
