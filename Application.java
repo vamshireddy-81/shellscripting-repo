@@ -31,9 +31,16 @@
 		printOne();
 		printOne();
 	}
+
 #feature302 changes done on aug31
 public static void main sample method(int a, int b) throw arthimetic exception{
 system.out.println("hello, its a sample");
 
 
 }
+
+#feature301 changes done by vamshi
+sourcefile.read(array)
+
+}
+
